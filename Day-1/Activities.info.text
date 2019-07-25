@@ -1,0 +1,48 @@
+01-ConsoleCommands
+
+Bash / Terminal Commands
+Instructions
+
+From the Terminal/Console and using only the command line, create the following:
+
+A new folder with the name of first_day_stuff
+A new HTML file with the name of first-day.html
+Open the current folder containing the new HTML file.
+
+BONUS
+Create multiple directories/folders with the names one_folder and second_folder in one command.
+Create multiple files with the names one.html and two.html in one command in the first_day_stuff directory.
+
+02-IntroToConsoleBash
+Intro to Console/Bash
+
+From the Terminal/Console, using only the command line
+
+1.)Create a new folder with the name of self-destructing-folder
+2.)Create a new txt file with the name secret-message.txt
+3.)Copy secret-message.txt to the inside of self-destructing-folder.
+4.)Delete the original secret-message.txt file.
+5.)Delete the self-destructing-folder.
+
+03-MyFirstHTML
+* Instructions:
+
+
+* In a new HTML file, create the basic structure of an HTML document and include the following in it:
+* DOCTYPE declaration
+* Head tag with a title tag
+* H1 tag with a title of your choice
+* Embed an image
+* Create the following three links on your page:
+        -One link that is target="_blank" so that it opens a new tab when clicked on.
+        -Make the second link bold.
+        -Make the third link a placeholder so it goes nowhere.
+
+
+* HINT: You should be looking up at the screen pretty often :P
+* Bonus:
+* Create an ordered list of steps to make a sandwich.
+* Create an unordered list of 5 bands/musicians you like.
+* Create a table with 2 columns (animal class and animal name) and 4 rows of animals.
+* Use an alternate way of separating links without line breaks.
+* Embed a Youtube video of your favorite band/musician.
